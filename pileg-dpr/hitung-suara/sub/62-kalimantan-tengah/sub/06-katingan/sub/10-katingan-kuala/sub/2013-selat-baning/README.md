@@ -1,0 +1,6 @@
+# Menu Wilayah
+
+## Link
+
+[TPS 001](https://github.com/gigit-pemilu/pemilu-2024-62-kalimantan-tengah/tree/main/pileg-dpr/hitung-suara/sub/62-kalimantan-tengah/sub/06-katingan/sub/10-katingan-kuala/sub/2013-selat-baning/sub/001-tps)
+
