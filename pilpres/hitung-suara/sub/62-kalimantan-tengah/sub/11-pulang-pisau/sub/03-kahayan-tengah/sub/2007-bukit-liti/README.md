@@ -1,0 +1,10 @@
+# Menu Wilayah
+
+## Link
+
+[TPS 001](https://github.com/gigit-pemilu/pemilu-2024-62-kalimantan-tengah/tree/main/pilpres/hitung-suara/sub/62-kalimantan-tengah/sub/11-pulang-pisau/sub/03-kahayan-tengah/sub/2007-bukit-liti/sub/001-tps)
+ | 
+[TPS 002](https://github.com/gigit-pemilu/pemilu-2024-62-kalimantan-tengah/tree/main/pilpres/hitung-suara/sub/62-kalimantan-tengah/sub/11-pulang-pisau/sub/03-kahayan-tengah/sub/2007-bukit-liti/sub/002-tps)
+ | 
+[TPS 003](https://github.com/gigit-pemilu/pemilu-2024-62-kalimantan-tengah/tree/main/pilpres/hitung-suara/sub/62-kalimantan-tengah/sub/11-pulang-pisau/sub/03-kahayan-tengah/sub/2007-bukit-liti/sub/003-tps)
+
