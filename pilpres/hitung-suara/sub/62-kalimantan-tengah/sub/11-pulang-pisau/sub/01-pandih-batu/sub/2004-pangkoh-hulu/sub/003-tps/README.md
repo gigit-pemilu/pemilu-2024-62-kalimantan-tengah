@@ -4,7 +4,7 @@
 
 ```mermaid
 xychart-beta
-    title "Perolehan Suara Nasional"
+    title "Perolehan Suara TPS"
     x-axis [01, 02, 03]
     y-axis "Suara" 0 --> 191
     bar [18, 191, 7]
@@ -27,9 +27,9 @@ pie showData
 | 3   | GANJAR MAHFUD  | 7     | [7][p-3]    | 3,24       |
 
 
-[p-1]: https://github.com/gigit-pemilu/pemilu-2024/blob/main/pilpres/hitung-suara/sub/62-kalimantan-tengah/sub/11-pulang-pisau/sub/01-pandih-batu/sub/2004-pangkoh-hulu/sub/003-tps/sub/paslon-1.txt
-[p-2]: https://github.com/gigit-pemilu/pemilu-2024/blob/main/pilpres/hitung-suara/sub/62-kalimantan-tengah/sub/11-pulang-pisau/sub/01-pandih-batu/sub/2004-pangkoh-hulu/sub/003-tps/sub/paslon-2.txt
-[p-3]: https://github.com/gigit-pemilu/pemilu-2024/blob/main/pilpres/hitung-suara/sub/62-kalimantan-tengah/sub/11-pulang-pisau/sub/01-pandih-batu/sub/2004-pangkoh-hulu/sub/003-tps/sub/paslon-3.txt
+[p-1]: https://github.com/gigit-pemilu/pemilu-2024-62-kalimantan-tengah/blob/main/pilpres/hitung-suara/sub/62-kalimantan-tengah/sub/11-pulang-pisau/sub/01-pandih-batu/sub/2004-pangkoh-hulu/sub/003-tps/sub/paslon-1.txt
+[p-2]: https://github.com/gigit-pemilu/pemilu-2024-62-kalimantan-tengah/blob/main/pilpres/hitung-suara/sub/62-kalimantan-tengah/sub/11-pulang-pisau/sub/01-pandih-batu/sub/2004-pangkoh-hulu/sub/003-tps/sub/paslon-2.txt
+[p-3]: https://github.com/gigit-pemilu/pemilu-2024-62-kalimantan-tengah/blob/main/pilpres/hitung-suara/sub/62-kalimantan-tengah/sub/11-pulang-pisau/sub/01-pandih-batu/sub/2004-pangkoh-hulu/sub/003-tps/sub/paslon-3.txt
 
 ## Foto C Plano
 
