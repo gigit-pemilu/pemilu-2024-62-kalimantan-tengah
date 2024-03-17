@@ -47,7 +47,7 @@ https://sirekap-obj-formc.kpu.go.id/7ba2/pemilu/pdpr/62/05/08/20/03/620508200300
 
 | Key        | Value               |
 | ---------- | ------------------- |
-| Time Stamp | 2024-03-17 12:03:47 |
+| Time Stamp | 2024-03-17 12:33:47 |
 | Kode Dapil | 6201                |
 
 
