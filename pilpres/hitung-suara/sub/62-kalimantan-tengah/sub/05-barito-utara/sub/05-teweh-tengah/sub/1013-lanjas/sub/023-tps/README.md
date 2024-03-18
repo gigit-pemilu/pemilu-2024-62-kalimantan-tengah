@@ -1,46 +1,19 @@
 # Hasil
 
-## Grafik
-
-```mermaid
-xychart-beta
-    title "Perolehan Suara TPS"
-    x-axis [01, 02, 03]
-    y-axis "Suara" 0 --> 151
-    bar [66, 151, 10]
-```
-
-```mermaid
-%%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px"}} }%%
-pie showData
-    "1" : 66
-    "2" : 151
-    "3" : 10
-```
-
-## Tabel
-
-| No. | Nama Paslon    | Suara | Suara (raw) | Persentase |
-|:--- |:-------------- | -----:| -----------:| ----------:|
-| 1   | ANIES MUHAIMIN | 66    | [66][p-1]   | 29,07      |
-| 2   | PRABOWO GIBRAN | 151   | [151][p-2]  | 66,52      |
-| 3   | GANJAR MAHFUD  | 10    | [10][p-3]   | 4,41       |
-
-
-[p-1]: https://github.com/gigit-pemilu/pemilu-2024-62-kalimantan-tengah/blob/main/pilpres/hitung-suara/sub/62-kalimantan-tengah/sub/05-barito-utara/sub/05-teweh-tengah/sub/1013-lanjas/sub/023-tps/sub/paslon-1.txt
-[p-2]: https://github.com/gigit-pemilu/pemilu-2024-62-kalimantan-tengah/blob/main/pilpres/hitung-suara/sub/62-kalimantan-tengah/sub/05-barito-utara/sub/05-teweh-tengah/sub/1013-lanjas/sub/023-tps/sub/paslon-2.txt
-[p-3]: https://github.com/gigit-pemilu/pemilu-2024-62-kalimantan-tengah/blob/main/pilpres/hitung-suara/sub/62-kalimantan-tengah/sub/05-barito-utara/sub/05-teweh-tengah/sub/1013-lanjas/sub/023-tps/sub/paslon-3.txt
-
 ## Foto C Plano
 
-https://sirekap-obj-formc.kpu.go.id/4387/pemilu/ppwp/62/05/05/10/13/6205051013023-20240216-055305--991d77d0-36ce-4bf2-a7ee-0e9e15b914b5.jpg
+https://sirekap-obj-formc.kpu.go.id/4387/pemilu/ppwp/62/05/05/10/13/6205051013023-20240216-055302--57b14478-6b74-4ebb-afd1-6fcef4b1f29b.jpg
+
+https://sirekap-obj-formc.kpu.go.id/4387/pemilu/ppwp/62/05/05/10/13/6205051013023-20240318-123136--b32369e2-dc1b-4956-9336-ac3fc244c641.jpg
+
+https://sirekap-obj-formc.kpu.go.id/4387/pemilu/ppwp/62/05/05/10/13/6205051013023-20240216-055304--214afb08-7a10-4a5c-8b90-e2db72c1ce9c.jpg
 
 
 ## Metadata
 
 | Key        | Value               |
 | ---------- | ------------------- |
-| Time Stamp | 2024-02-16 14:00:34 |
+| Time Stamp | 2024-03-18 13:00:00 |
 
 
 

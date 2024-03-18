@@ -2,18 +2,18 @@
 
 ## Foto C Plano
 
-https://sirekap-obj-formc.kpu.go.id/1406/pemilu/ppwp/62/10/02/20/09/6210022009002-20240215-025605--da2593c1-00bb-4ebb-ae5f-1f3102fac52c.jpg
+https://sirekap-obj-formc.kpu.go.id/1406/pemilu/ppwp/62/10/02/20/09/6210022009002-20240318-224814--87dae8bf-c158-4665-ae7b-9efdd18e2a6b.jpg
 
-https://sirekap-obj-formc.kpu.go.id/1406/pemilu/ppwp/62/10/02/20/09/6210022009002-20240215-025806--ef69c1f1-0058-48c9-ad9b-8f246c1b3d16.jpg
+https://sirekap-obj-formc.kpu.go.id/1406/pemilu/ppwp/62/10/02/20/09/6210022009002-20240318-224828--57778be9-2848-4a33-8df1-7fe4d9a3c3e4.jpg
 
-https://sirekap-obj-formc.kpu.go.id/1406/pemilu/ppwp/62/10/02/20/09/6210022009002-20240215-025857--a60386e1-ccfe-4bc2-921f-293a3d17d120.jpg
+https://sirekap-obj-formc.kpu.go.id/1406/pemilu/ppwp/62/10/02/20/09/6210022009002-20240318-224839--f93def23-4d17-4c88-bdc0-135562832fba.jpg
 
 
 ## Metadata
 
 | Key        | Value               |
 | ---------- | ------------------- |
-| Time Stamp | 2024-02-15 03:06:03 |
+| Time Stamp | 2024-03-18 23:00:00 |
 
 
 
