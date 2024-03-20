@@ -33,18 +33,18 @@ pie showData
 
 ## Foto C Plano
 
-https://sirekap-obj-formc.kpu.go.id/02fc/pemilu/ppwp/62/11/02/20/08/6211022008006-20240218-111709--b3e44c06-b625-4e8c-8f71-55bf92ccb865.jpg
+https://sirekap-obj-formc.kpu.go.id/02fc/pemilu/ppwp/62/11/02/20/08/6211022008006-20240319-190343--2f8e94a6-617e-46af-910e-90633c303c12.jpg
 
 https://sirekap-obj-formc.kpu.go.id/02fc/pemilu/ppwp/62/11/02/20/08/6211022008006-20240218-111711--5bceb429-6268-4061-b155-2b0428ab0af4.jpg
 
-https://sirekap-obj-formc.kpu.go.id/02fc/pemilu/ppwp/62/11/02/20/08/6211022008006-20240218-111710--0e3e4d9c-eeee-4d0d-b767-9f1dd38b72b9.jpg
+https://sirekap-obj-formc.kpu.go.id/02fc/pemilu/ppwp/62/11/02/20/08/6211022008006-20240319-190343--01540074-28bd-4c20-a17e-18943633e94f.jpg
 
 
 ## Metadata
 
 | Key        | Value               |
 | ---------- | ------------------- |
-| Time Stamp | 2024-02-19 06:16:00 |
+| Time Stamp | 2024-03-19 19:30:00 |
 
 
 ## DATA PEMILIH TETAP
@@ -73,10 +73,10 @@ Jumlah pengguna hak pilih: **0**.
 
 ## JUMLAH SUARA SAH DAN TIDAK SAH
 
-JUMLAH SELURUH SUARA SAH: **241**.
+JUMLAH SELURUH SUARA SAH: **0**.
 
-JUMLAH SUARA TIDAK SAH: **9**.
+JUMLAH SUARA TIDAK SAH: **0**.
 
-JUMLAH SELURUH SUARA SAH DAN SUARA TIDAK SAH: **250**.
+JUMLAH SELURUH SUARA SAH DAN SUARA TIDAK SAH: **0**.
 
 
