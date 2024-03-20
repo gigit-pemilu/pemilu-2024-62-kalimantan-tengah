@@ -34,20 +34,20 @@ https://sirekap-obj-formc.kpu.go.id/fa0e/pemilu/pdpr/62/10/10/10/04/621010100400
 
 https://sirekap-obj-formc.kpu.go.id/fa0e/pemilu/pdpr/62/10/10/10/04/6210101004004-20240318-230840--ebb4a50c-d983-4b0c-975b-a79b26c3015e.jpg
 
-https://sirekap-obj-formc.kpu.go.id/fa0e/pemilu/pdpr/62/10/10/10/04/6210101004004-20240318-230925--6c26dae1-a158-4c81-94d4-17b7795461b5.jpg
+https://sirekap-obj-formc.kpu.go.id/fa0e/pemilu/pdpr/62/10/10/10/04/6210101004004-20240319-104217--ef0d2789-1fab-4d9a-be15-d2ef4929e6b3.jpg
 
-https://sirekap-obj-formc.kpu.go.id/fa0e/pemilu/pdpr/62/10/10/10/04/6210101004004-20240318-231004--3ff259bc-1986-46ae-8106-e83a4acdb984.jpg
+https://sirekap-obj-formc.kpu.go.id/fa0e/pemilu/pdpr/62/10/10/10/04/6210101004004-20240319-104238--dc66510f-8454-4877-86fe-70f7fa8666a9.jpg
 
-https://sirekap-obj-formc.kpu.go.id/fa0e/pemilu/pdpr/62/10/10/10/04/6210101004004-20240318-231109--f4873f02-69c0-4e6b-b616-3babd1d448da.jpg
+https://sirekap-obj-formc.kpu.go.id/fa0e/pemilu/pdpr/62/10/10/10/04/6210101004004-20240319-104302--66209fec-5b31-49b6-a928-16e4d3875da5.jpg
 
-https://sirekap-obj-formc.kpu.go.id/fa0e/pemilu/pdpr/62/10/10/10/04/6210101004004-20240318-231130--ed65dcfa-4093-4f84-853b-d531eef42665.jpg
+https://sirekap-obj-formc.kpu.go.id/fa0e/pemilu/pdpr/62/10/10/10/04/6210101004004-20240319-104322--329d5984-0d49-4db5-b876-ef72c9fb941b.jpg
 
 
 ## Metadata
 
 | Key        | Value               |
 | ---------- | ------------------- |
-| Time Stamp | 2024-03-18 23:34:17 |
+| Time Stamp | 2024-03-19 11:03:48 |
 | Kode Dapil | 6201                |
 
 
